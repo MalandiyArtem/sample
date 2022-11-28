@@ -1,10 +1,13 @@
-var file_2 = 1;12qw
-1qw
-attemp3126v
+var file_2 = 1;
+
+
+
 function() {
     console.log('Hello');
-}qw
-йцу
-test1234
-qw
-I don't know';123
+}
+
+
+
+
+
+I don't know';
