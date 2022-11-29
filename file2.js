@@ -1,5 +1,5 @@
 var file_2 = 1;
-hello
+hello record 1
 helly
 
 function() {
