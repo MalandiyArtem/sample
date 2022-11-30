@@ -16,4 +16,4 @@ what?ghhjhgjgjgjhgjhgjhgjhgkjhgkjhgjkhgjhgjhgjhggjgjhhgjkjghgkjhghghkjghkjhgjhkg
 
 function test () {
     console.assert();
-}test
+}testtest
