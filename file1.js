@@ -3,3 +3,6 @@ Test #4
 hello?
 
 yes?()'''
+hello from test
+
+bye

@@ -4,3 +4,6 @@ yep?
 function ()(){
     this.isFinite.normal
 }
+
+hello there
+well, bye
