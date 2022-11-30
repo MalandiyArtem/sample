@@ -22,3 +22,10 @@ or not?
 Hello? 
 Switch
 const   dfd
+function okay() {
+    if(true) {
+        return true;
+    } else {
+        return false;
+    }
+}
