@@ -27,4 +27,10 @@ Now test [quotes] (and) "brackets" [] ( ) '' ""
 
 And now typing with replacing content yesy deleting one q 
 
-And now deleting on the different line, line number 21 and continue typing emd end end
+And now inserting by on the line, line hello number 21 and test test typing emd end end
+
+File 1 is opened
+
+Go back to file 1
+
+Again file 1
