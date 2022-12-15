@@ -1,7 +1,7 @@
-end file_2 = 1;
+var file_2 = 1;
 
-end array = [];
-end obj = {
+var array = [];
+var obj = {
     text: 'Test',
     value: 'value',
     number: 123
@@ -10,9 +10,7 @@ end obj = {
 obj.array.number.arrayl;
 console.log();
 
-obj.array.console
-obj.log();
-obj.value = 0;
+
 
 
 
