@@ -7,9 +7,8 @@ var obj = {
     number: 123
 };
 
-obj.array.number.arrayl;
+obj.arra.number.array;
 console.log();
-
 
 
 
