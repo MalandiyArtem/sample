@@ -1,13 +1,14 @@
-var file_2 = 1;
+end file_2 = 1;
 
-let array = [];
-let obj = {
+end array = [];
+end obj = {
     text: 'Test',
     value: 'value',
     number: 123
 };
 
-
+obj.array.number.arrayl;
+console.log();
 
 
 
