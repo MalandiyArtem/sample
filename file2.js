@@ -1,7 +1,7 @@
-end file_2 = 1;
+var file_2 = 1;
 
-end array = [];
-end obj = {
+var array = [];
+var obj = {
     text: 'Test',
     value: 'value',
     number: 123
