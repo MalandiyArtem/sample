@@ -1,6 +1,5 @@
 
 
-
 var file_2 = 1;
 var array = [];
 var obj = {
@@ -11,6 +10,9 @@ var obj = {
 
 obj.arra.number.array;
 console.log();
+
+
+;;;;;;;;;
 
 // end jsjsj
 // j
