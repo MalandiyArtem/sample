@@ -1,16 +1,11 @@
 1
-2
-3
-4
-5
-6
-7
-8
-9
-0
+queueMicrotask
+queueMicrotaskq
+q
 
+111111111
 
-
-
-
+console.assert(
+    queueMicrotaskq
+);
 test string
